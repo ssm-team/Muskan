@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "akansha",
+      "username": "akansha",
+      "email": "akansha@gmail.com",
+      "phone": "7896547896",
+      "id": 4
+    },
+    {
+      "name": "muskan",
+      "username": "muski",
+      "email": "muski@gmail.com",
+      "phone": "9228",
+      "id": 6
+    },
+    {
+      "name": "muskan yadav",
+      "username": "muski",
+      "email": "muskki@gmail.com",
+      "phone": "9228",
+      "id": 7
+    },
+    {
+      "name": "sandhya ",
+      "username": "sandhya ",
+      "email": "sanya@gmail.com",
+      "phone": "9834763",
+      "id": 8
+    },
+    {
+      "name": "kuldeep",
+      "username": "panwar",
+      "email": "kuldeep@gmail.com",
+      "phone": "98467638",
+      "id": 9
+    },
+    {
+      "name": "sheetal ",
+      "username": "sheetal",
+      "email": "sheetal@gmail.com",
+      "phone": "9378278",
+      "id": 10
+    },
+    {
+      "name": "yusius",
+      "username": "jxbjsbc",
+      "email": "ugudwgi@gmail.com",
+      "phone": "7834790",
+      "id": 11
+    },
+    {
+      "name": "kuldeep",
+      "username": "kuldeep",
+      "email": "kuldeep@gmail.com",
+      "phone": "783489373493",
+      "id": 12
+    },
+    {
+      "name": "anuuuu",
+      "username": "anmol rajput ",
+      "email": "ansxk",
+      "phone": "44i59",
+      "id": 15
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
